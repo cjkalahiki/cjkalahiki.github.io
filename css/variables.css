@@ -1,0 +1,7 @@
+:root { /* :root references root of html, sets new variables; root == html tag */
+    --brown: #6d6665;
+    --grey: #53565A;
+    --black: #272727;
+
+    --font-one: 'Oswald', sans-serif;
+}

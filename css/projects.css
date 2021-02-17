@@ -1,0 +1,38 @@
+#projects {
+    background-color: #C4B0A0;
+}
+
+.projectSection {
+    text-align: center;
+    color: white;
+    font-family: var(--font-one);
+}
+
+.firstHeader {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 50pt;
+    text-shadow: 4px 4px rgba(0, 0, 0, 0.55);
+    
+
+    color: white;
+    font-family: var(--font-one);
+}
+
+.projectSection a {
+    height: 25vh;
+    min-width: 60%;
+}
+
+.projectSection img {
+    max-width: 100%;
+    
+    height: inherit;
+    width: inherit;
+
+    margin-bottom: 4vh;
+}
+
+.spacer {
+    height: 10vh;
+}

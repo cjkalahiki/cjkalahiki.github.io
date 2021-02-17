@@ -1,0 +1,40 @@
+body {
+    background-color: white;
+}
+
+.name {
+    /* from pexels.com */
+    background: url(../assets/mountains.jpg) center 15%;
+    background-size: cover;
+
+    min-width: 90%;
+    height: 100vh;
+    padding-top: 20%;
+}
+
+.name img {
+    /* height: 30vh; */
+    max-width: 30%;
+    height: auto;
+    width: auto\1;
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.name img:hover {
+    cursor: pointer;
+
+}
+
+.name h1 {
+    font-family: var(--font-one);
+    font-size: 40pt;
+    color: white;
+    padding-top: 4%;
+
+    text-transform: uppercase;
+    text-align: center;
+    text-shadow: 4px 4px rgba(0, 0, 0, 0.584);
+}

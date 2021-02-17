@@ -1,0 +1,20 @@
+#contact {
+    background: #899295;
+    padding-bottom: 3em;
+}
+
+h2 {
+    color: white;
+    font-family: var(--font-one);
+    font-size: 40pt;
+    text-decoration: underline;
+}
+
+.text-center button {
+    background-color: white;
+    color: black;
+}
+
+.control-group label {
+    color: white;
+}
